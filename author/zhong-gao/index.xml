@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong Gao | Tianle Zhang</title>
+    <link>https://ZTianle.github.io/author/zhong-gao/</link>
+      <atom:link href="https://ZTianle.github.io/author/zhong-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhong Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZTianle.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhong Gao</title>
+      <link>https://ZTianle.github.io/author/zhong-gao/</link>
+    </image>
+    
+    <item>
+      <title>An Online Learning Algorithm for Voice Activation Detection Based on a Pretrained Online Extreme Learning Machine</title>
+      <link>https://ZTianle.github.io/publication/zhang-2018-online/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/zhang-2018-online/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

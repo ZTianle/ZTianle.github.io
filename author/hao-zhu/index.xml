@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Zhu | Tianle Zhang</title>
+    <link>https://ZTianle.github.io/author/hao-zhu/</link>
+      <atom:link href="https://ZTianle.github.io/author/hao-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZTianle.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hao Zhu</title>
+      <link>https://ZTianle.github.io/author/hao-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Application of Regularized Extreme Learning Machine Based on BIC Criterion and Genetic Algorithm in Iron Ore Price Forecasting</title>
+      <link>https://ZTianle.github.io/publication/weng-2018-application/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/weng-2018-application/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

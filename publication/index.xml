@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tianle Zhang</title>
+    <link>https://ZTianle.github.io/publication/</link>
+      <atom:link href="https://ZTianle.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZTianle.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://ZTianle.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A deep residual compensation extreme learning machine and applications</title>
+      <link>https://ZTianle.github.io/publication/chen-2020-deep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/chen-2020-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land-use classification via ensemble dropout information discriminative extreme learning machine based on deep convolution feature</title>
+      <link>https://ZTianle.github.io/publication/zhang-2020-land/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/zhang-2020-land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network algorithm based on Legendre improved extreme learning machine for solving elliptic partial differential equations</title>
+      <link>https://ZTianle.github.io/publication/yang-2020-neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/yang-2020-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rock slope stability analysis and charts based on hybrid online sequential extreme learning machine model</title>
+      <link>https://ZTianle.github.io/publication/deng-2020-rock/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/deng-2020-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving partial differential equation based on Bernstein neural network and extreme learning machine algorithm</title>
+      <link>https://ZTianle.github.io/publication/sun-2019-solving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/sun-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Learning Algorithm for Voice Activation Detection Based on a Pretrained Online Extreme Learning Machine</title>
+      <link>https://ZTianle.github.io/publication/zhang-2018-online/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/zhang-2018-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Regularized Extreme Learning Machine Based on BIC Criterion and Genetic Algorithm in Iron Ore Price Forecasting</title>
+      <link>https://ZTianle.github.io/publication/weng-2018-application/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/weng-2018-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global solar radiation prediction using hybrid online sequential extreme learning machine model</title>
+      <link>https://ZTianle.github.io/publication/hou-2018-global/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/hou-2018-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PM2. 5 Prediction Based on Genetic Algorithm and Regularized Extreme Learning Machine</title>
+      <link>https://ZTianle.github.io/publication/weng-2018-pm-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZTianle.github.io/publication/weng-2018-pm-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
